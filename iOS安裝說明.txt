@@ -1,0 +1,14 @@
+品管（土建）模擬練習 APP－iPhone／iPad 版
+
+【直接使用】
+1. 可先嘗試用 Safari 開啟 index.html。
+2. 若 iOS 不允許由「檔案」直接完整執行，請使用下方 PWA 安裝方式。
+
+【安裝到主畫面（建議）】
+1. 將整個「品管土建iOS版APP」資料夾上傳到支援 HTTPS 的網站空間，例如 GitHub Pages、Netlify 或公司網站。
+2. 在 iPhone／iPad 用 Safari 開啟該網址。
+3. 點 Safari 的「分享」按鈕。
+4. 選擇「加入主畫面」。
+5. 從主畫面開啟後，即可像一般 App 使用；首次完整載入後可離線練習。
+
+注意：iOS 的 PWA 安裝必須透過 HTTPS 網址，單純 ZIP 或本機 file:// 無法啟用 Service Worker 離線快取。錯題資料會儲存在該裝置的 Safari／App 儲存空間。
